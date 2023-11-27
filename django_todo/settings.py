@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-bzc0n2t#k--=oq)(cm3*cm67daw+9crtz0x9t=z=)c%k=$1san
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-elinaboman-hellodjango-6dry4sjwjke.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['todoapps2023-0fd5f3288457.herokuapp.com', '8000-elinaboman-hellodjango-6dry4sjwjke.ws-eu106.gitpod.io']
 
 
 # Application definition
